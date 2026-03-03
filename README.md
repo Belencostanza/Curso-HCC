@@ -1,2 +1,2 @@
 # Curso-HCC
-Código desarrollado para identificación de saltos de flujo en serie temporal. 
+Código desarrollado para identificación de saltos de flujo en serie temporal
